@@ -1,5 +1,5 @@
 {
-    "project": "EDSXPLOR",
+    "project": "eds-explore",
     "plugins": [
       {
         "id": "asset-library",
